@@ -1,4 +1,4 @@
-# Análise de Performance e Fisiologia de Atletas 🏋
+# Análise de Performance e Fisiologia de Atletas 
 
 Este projeto utiliza o dataset **Linnerud** do Scikit-Learn para explorar a relação entre exercícios físicos (abdominais, saltos, etc.) e indicadores fisiológicos.
 
