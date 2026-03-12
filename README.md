@@ -17,6 +17,6 @@ O objetivo principal foi aplicar um modelo de **Regressão Linear** para entende
 
 ##  Artigo Completo
 
-Link do projeto: [https://colab.research.google.com/drive/1JOQLcUEiS-9IP9pqFuNGKMtdKLYI8nk0#scrollTo=_rPIiTuZzBCY]
+Link do projeto: [http://bit.ly/46TrGip]
 
-Você pode ler a análise detalhada aqui: [https://medium.com/@erick.carlis/previs%C3%A3o-de-indicadores-fisiol%C3%B3gicos-em-atletas-com-scikit-learn-2387f67456ba?postPublishedType=initial]
+Você pode ler a análise detalhada aqui: [https://bit.ly/4sFeiqs]
