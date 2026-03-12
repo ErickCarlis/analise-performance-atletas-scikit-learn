@@ -15,5 +15,7 @@ O objetivo principal foi aplicar um modelo de **Regressão Linear** para entende
 - Identificação de correlação forte entre medida de cintura e peso (0.87).
 - O modelo apresentou um **MAE de 20.60**, evidenciando a necessidade de mais variáveis para uma precisão médica, mas validando o fluxo de dados.
 
+Link do projeto: [https://colab.research.google.com/drive/1JOQLcUEiS-9IP9pqFuNGKMtdKLYI8nk0#scrollTo=_rPIiTuZzBCY]
+
 ##  Artigo Completo
 Você pode ler a análise detalhada aqui: [https://medium.com/@erick.carlis/previs%C3%A3o-de-indicadores-fisiol%C3%B3gicos-em-atletas-com-scikit-learn-2387f67456ba?postPublishedType=initial]
